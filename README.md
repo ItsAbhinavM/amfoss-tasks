@@ -1,4 +1,4 @@
-### amfoss-tasks
+# amfoss-tasks
 # SELF-INTRO
 Hey all, myslelf Abhinav M from CSE-D batch .I'm a programming enthusiast mainly interested in making ingenious projects .
 
@@ -11,7 +11,7 @@ My main goal is to explore as much different coding languages ( mainly in C,C++,
 I do wish to perform some projects mainly based on python before completing S1 as well as compete for the very next coming Gsoc in 2024 .
 
 # HOW WOULD YOU CONTRIBUTE BACK TO THE CLUB?
-As i'm an programming enthusiast , I'll bring the same energy and enthusiasm to the club, and predict I’d make an immediate impact on the club .  I strive to support a cohesive and supportive team environment and understand that the quality of my work matters in this club .
+Since i'm an programming enthusiast , I'll bring the same energy and enthusiasm to the club, and predict I’d make an immediate impact on the club .  I strive to support a cohesive and supportive team environment and understand that the quality of my work matters in this club .
 
 # DO YOU HAVE ANY FEEDBACK ON THE SELECTION PROCESS?
  At first I've found few of the tasks to be difficult . Since i'm a Rookie in changing softwares the Crux Of The Matter was to change from windows to ubuntu , later being used to it I have been more comfortable .But neverthless I've found this whole session to be wonderfull and had enjoyed a lot from these fun filled learning process . At the end of the session i have found this phenomenal way of selection process to be unique and amazing .
