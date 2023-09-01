@@ -1,0 +1,41 @@
+/*body{
+    background-image: url(backdrop.png);
+}*/
+.bgimage{
+    vertical-align: left;
+}
+.mid{
+    text-align: center;
+}
+
+.navbar-top{
+    border: 5px;
+    border-radius: 20px;
+    background-color: aqua;
+    padding: 11px;
+    font-size: large;
+    font-family: sans-serif;
+    background: rgba(0, 0, 0, .4);
+    text-align: right;
+}
+.box-out{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    align-items: center;
+    justify-content: center;
+    border: 20px;
+    border-radius: 15px;
+    margin: 15px;
+    height: 40px;
+    width: 500px;
+    vertical-align:middle;
+    text-align: center;
+    background: #2BDAE1;
+}
+.link{
+    text-align: right;
+}
