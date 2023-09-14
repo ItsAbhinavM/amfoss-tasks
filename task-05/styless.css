@@ -1,22 +1,20 @@
-/*body{
-    background-image: url(backdrop.png);
-}*/
-.bgimage{
-    vertical-align: left;
-}
 .mid{
     text-align: center;
 }
 
 .navbar-top{
-    border: 5px;
-    border-radius: 20px;
+    border: 5px; 
     background-color: aqua;
-    padding: 11px;
-    font-size: large;
+    padding:0.5vh;
+    font-size:medium;
     font-family: sans-serif;
     background: rgba(0, 0, 0, .4);
     text-align: right;
+}
+.play-button-left{
+    display: flex;
+    justify-content: left;
+    float: left;
 }
 .box-out{
     display: flex;
