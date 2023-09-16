@@ -1,1 +1,2 @@
-
+# OVERVIEW
+This project personally took me a lot of time but still I have managed to complete this within 3-4 days .I alos faced some issues regarding making the project to public since when I send the project it will showed message forbidden error , now i hac solved this and tried it again and now its working . On top of all these I found this task to be entertaining and learnt alot about arduino as well as enjoyed .
