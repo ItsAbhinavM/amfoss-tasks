@@ -1,15 +1,13 @@
 for i in range(int(input())):
     a,b=0,1
-    cnt=[]
-    inp=int(input())
-    while inp>=a:
-        cnt.append(a)
-        #print(a,end=" ")
+    counter=[]
+    user_inp=int(input())
+    while user_inp>=a:
+        counter.append(a)
         a,b=b,a+b
-        
-    print(set(cnt))
-    sm=0
-    for i in cnt:
+    print(set(counter))
+    addition=0
+    for i in counter:
         if i%2==0:
-            sm+=i
-    print(sm)
+            addition+=i
+    print(addition)
