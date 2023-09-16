@@ -1,7 +1,9 @@
 for i in range(int(input())):
-    j=0
-    a=abs(int(input()))
-    for i in range(a):
+    var=0
+    abs_number=abs(int(input()))
+    for j in range(abs_number):
         if i%3==0 or i%5==0:
-            j+=i
-    print(j)
+            var+=i
+        else:
+            continue
+    print(var)
