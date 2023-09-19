@@ -1,5 +1,5 @@
 # How did I came up to solve this task
-This task was actually one of the most fancy task I've done in this praveshan , stillit was very nice to make it as the first task as we coud learn a lot of task . I have learn all the necessary things fot the task mainly from google as well as bing .
+This task was actually one of the most fancy task I've done in this praveshan .Nevertheless, it was beneficial to have it as the inaugural task of the praveshan, as it allowed us to acquire a wealth of knowledge about terminal commands. I gained a thorough understanding of the required concepts, primarily by conducting research on both Google and Bing.
 
 # Problems face while doing the task
 I haven't faced major issues in solving the challenges from 1-4 but the fifth one did took a lot of time to understand how to solve it and later i came to know that i need to combine the codes that i gathered earlier. Also the main thing that I faced while finishing this thing up is that my TheOneThatEndsItAll.py file is not running at all later through lots of conversations , researches and helps from internet , friends and mainly my mentors helped me to finally solve it .
