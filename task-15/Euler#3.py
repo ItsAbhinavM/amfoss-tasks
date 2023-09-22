@@ -1,8 +1,13 @@
-for i in range(int(input())):
-    a=int(input("Enter the number here : "))
-    cnt=[]
-    for i in range(2,a+1):
-        if a%i==0:
-            cnt.append(i)
-            a=a//2
-    print(max(cnt))
+t = int(input())
+for i in range(t):
+    inp=int(input())
+    list1=[inp]
+    list2=[]
+    for i in list1:
+        temp_list=[]
+        for j in range(2,i+1):
+            if i%j==0:
+                temp_list.append(j)
+                i=i//j
+        list2.append(max(temp_list))
+    print(max(temp_list))
