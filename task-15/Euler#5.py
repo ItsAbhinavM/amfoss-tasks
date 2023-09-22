@@ -1,8 +1,7 @@
 import math
-var=int(input())
-for i in range(var):
-    n=int(input("Enter the range  : "))
+for i in range(int(input())):
+    n=int(input())
     lst = []
-    for item in range(1,n+1): 
-        lst.append(item)
-    print(math.lcm(*lst)) # prints the lcm of the numbers given in the list named lst
+    for j in range(1,n+1): 
+        lst.append(j)
+    print(math.lcm(*lst))
