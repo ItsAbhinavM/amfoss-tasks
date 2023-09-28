@@ -21,7 +21,7 @@ func findAndPrintPrimes(N int) {
 
 func main() {
     var N int
-    fmt.Println("Enter the value of N.")
+    fmt.Println("Enter the range :")
     fmt.Scanln(&N)
     fmt.Println("The prime numbers between 1 to", N, "where N is included are -")
 
