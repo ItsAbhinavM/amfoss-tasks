@@ -2,6 +2,7 @@ import Control.Monad (forM_)
 
 main :: IO ()
 main = do
+    putStrLn "Enter the number here : "
     n <- readLn
     forM_ [2..n-1] $ \i -> do
         if isPrime i
