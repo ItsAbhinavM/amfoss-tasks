@@ -1,4 +1,4 @@
-This task was fairly an easy task as it had a lot of resources on the web . The methods ( and passwords for the next level ) that I applied inorder to solve the given task is as follows . 
+This task was fairly an easy task as it had a lot of resources on the web . The methods ( and passwords for the next level ) that I applied>
 
 Level 0 :
 Password : NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
@@ -25,7 +25,7 @@ Here I have used find .type -f size 1033c ! -executable so that u could see the 
 Password : P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
 Level 6 :
-Here I have used find / -type f -user bandit7 -group bandit6  -size 33c to access the file in which the password is stored 
+Here I have used find / -type f -user bandit7 -group bandit6  -size 33c to access the file in which the password is stored
 Password : z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 
 Level 7 :
@@ -37,10 +37,9 @@ Here I have used sort data.txt | uniq -c  to access the password
 Password :EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 
 Level 9 :
-Here I have used strings data.txt | grep "=" 
+Here I have used strings data.txt | grep "="
 Password : G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 
 Level 10 :
 Here I have used cat data.txt and base64 -d data.txt to get the password
 Password : 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
-
