@@ -6,16 +6,21 @@ defmodule PrimeNumbers do
   defp is_prime(n, divisor) when rem(n, divisor) == 0, do: false
   defp is_prime(n, divisor), do: is_prime(n, divisor + 1)
 
-  def print_primes(from, to) when from <= to do
+  def print_primes(from, to) when from <= to, do: print_primes(from, to, [])
+
+  defp print_primes(from, to, primes) when from <= to do
     if is_prime(from) do
       IO.puts(from)
+      print_primes(from + 1, to, [from | primes])
+    else
+      print_primes(from + 1, to, primes)
     end
-    print_primes(from + 1, to)
   end
 
-  def print_primes(_from, _to), do: :ok
+  defp print_primes(_, _, _), do: :ok
 end
- age = IO.gets("enter the number :  ")
- n = String.strip(age)
- new_age = String.to_integer(n)
+
+age = IO.gets("Enter the number: ")
+n = String.strip(age)
+new_age = String.to_integer(n)
 PrimeNumbers.print_primes(1, new_age)
