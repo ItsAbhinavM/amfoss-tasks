@@ -1,20 +1,25 @@
 #include <stdio.h>
 
 int main(void) {
-    int max,i,j,count;
-    int min=0;
-    printf("Enter the number : ");
-    scanf("%d",&max);
-    for (i=min;i<=max;i++){
-        int count=0;
-        for (j=1;j<=i;j++){
-            if (i%j==0){
-                count++;
+    int upperLimit, i, j, isPrime;
+
+    printf("Enter the maximum number: ");
+    scanf("%d", &upperLimit);
+
+    for (i = 2; i <= upperLimit; i++) {
+        isPrime = 1; 
+
+        for (j = 2; j * j <= i; j++) {
+            if (i % j == 0) {
+                isPrime = 0; 
+                break;
             }
         }
-    if (count==2){
-        printf("\n%d",i);
+
+        if (isPrime) {
+            printf("%d\n", i);
+        }
     }
-    
-    }
+
+    return 0;
 }
