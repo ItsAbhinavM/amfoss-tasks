@@ -15,3 +15,14 @@ Since i'm an programming enthusiast , I'll bring the same energy and enthusiasm 
 
 # DO YOU HAVE ANY FEEDBACK ON THE SELECTION PROCESS?
  At first I've found few of the tasks to be difficult . Since i'm a Rookie in changing softwares the Crux Of The Matter was to change from windows to ubuntu , later being used to it I have been more comfortable .But neverthless I've found this whole session to be wonderfull and had enjoyed a lot from these fun filled learning process . At the end of the session i have found this phenomenal way of selection process to be unique and amazing .
+**Tasks List**|**Description**|**Status**
+--------------|---------------|---------------
+[Task-00](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/Task-00) | Install  Linux | Completed 
+[Task-01](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-01) | Terminal Wizard | Completed
+[Task-02](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-02) |  Lessgo Hugo | Completed
+[Task-03](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-03) | Hello World! | Completed
+[Task-04]()| Competitive Programming | Completed Partially
+[Task-05](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-05)|Hypertext Mockup Language | Completed
+[Task-06]() | Cricket Vault | Completed partially
+[Task-07](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-07) | AK-47℃ | Completed
+[Task-08]() | Poke-Search | Completed partially
