@@ -26,3 +26,7 @@ Since i'm an programming enthusiast , I'll bring the same energy and enthusiasm 
 [Task-06]() | Cricket Vault | Completed partially
 [Task-07](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-07) | AK-47℃ | Completed
 [Task-08](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-08) | Poke-Search | Completed partially
+[Task-11](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-11) | TinkerCAD | Completed
+[Task-13](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-13) | Vim | Completed
+[Task-14](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-14) | Bandit | Completed
+[Task-15](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-15) | Project Euler | Completed
