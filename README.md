@@ -21,8 +21,8 @@ Since i'm an programming enthusiast , I'll bring the same energy and enthusiasm 
 [Task-01](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-01) | Terminal Wizard | Completed
 [Task-02](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-02) |  Lessgo Hugo | Completed
 [Task-03](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-03) | Hello World! | Completed
-[Task-04]()| Competitive Programming | Completed Partially
+[Task-04](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-04)| Competitive Programming | Completed Partially
 [Task-05](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-05)|Hypertext Mockup Language | Completed
 [Task-06]() | Cricket Vault | Completed partially
 [Task-07](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-07) | AK-47℃ | Completed
-[Task-08]() | Poke-Search | Completed partially
+[Task-08](https://github.com/ItsAbhinavM/amfoss-tasks/tree/main/task-08) | Poke-Search | Completed partially
